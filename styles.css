@@ -1,0 +1,42 @@
+html, body {
+    font-family: 'Poppins', sans-serif;
+}
+
+#subtitle1 {
+    font-weight: 600;
+    color: #999999;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#title1{
+    text-align: center;
+}
+
+#thewhy {
+    font-weight: 600;
+    color: #999999;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#qualified  {
+    font-weight: 600;
+    color: #999999;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#aboutme{
+    color: #020202;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
